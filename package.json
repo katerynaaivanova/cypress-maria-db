@@ -4,7 +4,7 @@
   "description": "Plugin that allows interaction with a MariaDB from Cypress commands",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "keywords": [
     "cypress",
@@ -12,5 +12,9 @@
     "mariadb"
   ],
   "author": "Kateryna Ivanova",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/katerynaaivanova/cypress-maria-db.git"
+  }
 }
